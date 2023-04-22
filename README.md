@@ -1,2 +1,2 @@
 # newton-s-fractal
-download graphics.h
+generates 5 examples of a newton's fractal
